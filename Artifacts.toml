@@ -1,0 +1,168 @@
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "270bb4bef9a8ea471752b1f923fe31498345e56a"
+lazy = true
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "abdb312984bc2cc0a86b956be27f300b3c5090a68094afa20e3bf56e1e173765"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-gnu-march+x86_64.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "ea5db6a02f402f2854bdb30c68c6275292390a0b"
+lazy = true
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "976818d02ebdca5437e4887f9c464b4845c64866d1527bb81183103f0d9ff784"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-gnu-march+avx.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "2c0fe437393ca241e38f41ae07cc13964905beb1"
+lazy = true
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "6a40ea5086dcba95095da22e72b1ccbebb957de6b7fe823b4717b47cacdf6d5d"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-gnu-march+avx2.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "ba4fda2308751f82e4d665f3a99e2c3da3d3d3bf"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "ce040c078336a8d54923447492f7daa3d2f40c6d98eddea7b564936789774ee5"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-gnu-march+avx512.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "91d02ed5496dec6aeeaceac29a1b1f1f9b825382"
+lazy = true
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "6ad1347cd7535e48998343efb2cebdaf99058aec1115ba998cc1f59d5212718d"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-musl-march+x86_64.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "799a140feb62df20cd59217a842aae73be874af6"
+lazy = true
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "71e922c7280c595df491f89cba70058031a256564a05e549ed6ed2c452bd0339"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-musl-march+avx.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "12d9e9653be2fe9756602eaaf3c7d6acf6c465ab"
+lazy = true
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "ddc81a0dbb2a676fa64e7a095e09c7c0d6b7be25f056f3daf4d9713c4d7f1c30"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-musl-march+avx2.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "e02f47fe16c13aa7f1cf39acdca5c21e1eaa0d4c"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[acados.download]]
+    sha256 = "6bb1cd97d272bf8307718cfe3d84c66c7201c7c767fb52ef862b75f8688016e1"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-linux-musl-march+avx512.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "1d75202bf886bb57098a8f2cbeca4f01e27e89e1"
+lazy = true
+march = "x86_64"
+os = "windows"
+
+    [[acados.download]]
+    sha256 = "a938daaa73b89cb965203292c0dbbabd6f24cd9af2830c7eef50d38e11559843"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-w64-mingw32-march+x86_64.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "64e6d9228bf5c1d57b5c43a104e6294be0e9d559"
+lazy = true
+march = "avx"
+os = "windows"
+
+    [[acados.download]]
+    sha256 = "03e07b9b86a62a5cd708fecd6088a63e383d9f4c88859bdd4b010391cea02da0"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-w64-mingw32-march+avx.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "18a6a59cb8991b2581df62f2fdc637bfad427fe1"
+lazy = true
+march = "avx2"
+os = "windows"
+
+    [[acados.download]]
+    sha256 = "d83ec721c3e451eca08d56c07c89045edc20f9c700c52b2d823a677f446f2f1d"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-w64-mingw32-march+avx2.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "9217e5866ba8af1e9924671a8a6ab6605fe7fd99"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[acados.download]]
+    sha256 = "2b2fc36018d5fb36b462b736ac1b45d8aaeeed4972fffac33d5c8e4524278ee2"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-w64-mingw32-march+avx512.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "2934d4170ddabf2b3aa8057f30d31b5480c07198"
+lazy = true
+march = "x86_64"
+os = "macos"
+
+    [[acados.download]]
+    sha256 = "4bdaf6fea9acc96688d7f5080f2dcca258a7be717954ed1b11fd3601faf17445"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "420d120867faf56255166a5d243a3e4fe84857e1"
+lazy = true
+march = "avx"
+os = "macos"
+
+    [[acados.download]]
+    sha256 = "becd28d136e86944bb75c7973224d6c047f6843be6f5f28677ba485f2dcf604a"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-apple-darwin-march+avx.tar.gz"
+[[acados]]
+arch = "x86_64"
+git-tree-sha1 = "811f2382e8d67f1f084a0f0c8921e0c8e0ef4b26"
+lazy = true
+march = "avx2"
+os = "macos"
+
+    [[acados.download]]
+    sha256 = "1838137659d5405f549b273e90420bf1c16d58b6136b341a25352ea78b6bcb18"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.x86_64-apple-darwin-march+avx2.tar.gz"
+[[acados]]
+arch = "aarch64"
+git-tree-sha1 = "1a66754675562e6a56b4d357918cd525e89b4acd"
+lazy = true
+march = "apple_m1"
+os = "macos"
+
+    [[acados.download]]
+    sha256 = "e7fe457b10a41a276a3dfd71c403eb6a9c4acfcad78c7a98225111e4d5332945"
+    url = "https://github.com/JuliaBinaryWrappers/acados_jll.jl/releases/download/acados-v0.6.0+0/acados.v0.6.0.aarch64-apple-darwin-march+apple_m1.tar.gz"
